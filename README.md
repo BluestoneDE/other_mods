@@ -15,14 +15,14 @@ Now this is something I thought of when watching [ThatDudeKen1]. He had a hitsou
 ## vibrato music
 One day I thought it would be funny if all the music of the game had this vibrato effect.
 So I did exactly that. **Both .vpk files are needed** because it is a bigger mod.
-|[vibrato music_000.vpk]|[vibrato music_dir.vpk]|
+|[vibrato_music_000.vpk]|[vibrato_music_dir.vpk]|
 |-|-|
 
 ## windows shutdown crits
 This mod plays the Windows XP shutdown sound for every crit you hit.
 A random person on Discord asked if anyone could help make this work.
 I tried giving them instructions but ended up doing the work for them in under 5 minutes.
-|[windows shutdown crits.vpk]|
+|[windows_shutdown_crits.vpk]|
 |-|
 
 <!-- LINKS -->
@@ -32,6 +32,6 @@ I tried giving them instructions but ended up doing the work for them in under 5
 <!-- VPK RELEASE DOWNLOADS -->
 [badoongee.vpk]:              https://github.com/BluestoneDE/other_mods/releases/latest/download/badoongee.vpk "download"
 [HL1_scientist_screams.vpk]:  https://github.com/BluestoneDE/other_mods/releases/latest/download/HL1_scientist_screams.vpk "download"
-[vibrato music_000.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato%20music_000.vpk "download"
-[vibrato music_dir.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato%20music_dir.vpk "download"
-[windows shutdown crits.vpk]: https://github.com/BluestoneDE/other_mods/releases/latest/download/windows%20shutdown%20crits.vpk "download"
+[vibrato_music_000.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_000.vpk "download"
+[vibrato_music_dir.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_dir.vpk "download"
+[windows_shutdown_crits.vpk]: https://github.com/BluestoneDE/other_mods/releases/latest/download/windows_shutdown_crits.vpk "download"
