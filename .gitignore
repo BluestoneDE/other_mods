@@ -1,5 +1,3 @@
 *.cache
 *.lnk
 *.vpk
-sound/*
-!sound/ui

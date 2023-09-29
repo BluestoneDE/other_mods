@@ -12,6 +12,11 @@ Now this is something I thought of when watching [ThatDudeKen1]. He had a hitsou
 |[HL1_scientist_screams.vpk]|
 |-|
 
+## THAT'S HOW WE DO IT IN THE BUSH MATE
+Inspired by [this video](https://www.youtube.com/watch?v=y1uFiH8sUqs), I decided to go ahead and replace all of Sniper's shoting sounds with him saying exactly what the title says. It is silly but doesn't work on official Valve servers.
+|[THATS_HOW_WE_DO_IT_IN_THE_BUSH_MATE.vpk]|
+|-|
+
 ## vibrato music
 One day I thought it would be funny if all the music of the game had this vibrato effect.
 So I did exactly that. **Both .vpk files are needed** because it is a bigger mod.
@@ -26,12 +31,14 @@ I tried giving them instructions but ended up doing the work for them in under 5
 |-|
 
 <!-- LINKS -->
-[random_killsounds]:          https://github.com/BluestoneDE/random_killsounds
-[MattchoZ]:                   https://www.twitch.tv/mattchoz
-[ThatDudeKen1]:               https://www.twitch.tv/thatdudeken1
+[random_killsounds]: https://github.com/BluestoneDE/random_killsounds
+[MattchoZ]:          https://www.twitch.tv/mattchoz
+[ThatDudeKen1]:      https://www.twitch.tv/thatdudeken1
+
 <!-- VPK RELEASE DOWNLOADS -->
-[badoongee.vpk]:              https://github.com/BluestoneDE/other_mods/releases/latest/download/badoongee.vpk "download"
-[HL1_scientist_screams.vpk]:  https://github.com/BluestoneDE/other_mods/releases/latest/download/HL1_scientist_screams.vpk "download"
-[vibrato_music_000.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_000.vpk "download"
-[vibrato_music_dir.vpk]:      https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_dir.vpk "download"
-[windows_shutdown_crits.vpk]: https://github.com/BluestoneDE/other_mods/releases/latest/download/windows_shutdown_crits.vpk "download"
+[badoongee.vpk]:                           https://github.com/BluestoneDE/other_mods/releases/latest/download/badoongee.vpk "download"
+[HL1_scientist_screams.vpk]:               https://github.com/BluestoneDE/other_mods/releases/latest/download/HL1_scientist_screams.vpk "download"
+[THATS_HOW_WE_DO_IT_IN_THE_BUSH_MATE.vpk]: https://github.com/BluestoneDE/other_mods/releases/latest/download/THATS_HOW_WE_DO_IT_IN_THE_BUSH_MATE.vpk "download"
+[vibrato_music_000.vpk]:                   https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_000.vpk "download"
+[vibrato_music_dir.vpk]:                   https://github.com/BluestoneDE/other_mods/releases/latest/download/vibrato_music_dir.vpk "download"
+[windows_shutdown_crits.vpk]:              https://github.com/BluestoneDE/other_mods/releases/latest/download/windows_shutdown_crits.vpk "download"
